@@ -18,18 +18,3 @@ FEATURES:
 ### For more information:
 https://machinelearningprojects.net/face-recognition-based-attendance-system/
 
-# SCREENSHOTS
-MAIN SCREEN:
-![Screenshot (9)](https://github.com/YashTariyal/Face_Recognition_Based_Attendance_System/blob/main/StudentDetails/Screenshot%20(102).png)
-
-TAKING ATTENDANCE:
-![Screenshot (10)](https://github.com/YashTariyal/Face_Recognition_Based_Attendance_System/blob/main/StudentDetails/Screenshot%20(104).png)
-
-SHOWING ATTENDANCE TAKEN:
-![Screenshot (11)](https://github.com/YashTariyal/Face_Recognition_Based_Attendance_System/blob/main/StudentDetails/Screenshot%20(105).png)
-
-HELP OPTION IN MENUBAR:
-![Screenshot (12)](https://github.com/YashTariyal/Face_Recognition_Based_Attendance_System/blob/main/StudentDetails/Screenshot%20(106).png)
-
-CHANGE PASSWORD OPTION:
-![Screenshot (13)](https://github.com/YashTariyal/Face_Recognition_Based_Attendance_System/blob/main/StudentDetails/Screenshot%20(107).png)
